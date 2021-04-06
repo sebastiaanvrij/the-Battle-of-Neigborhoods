@@ -1,0 +1,9 @@
+ Sometimes there seems to be an issue with viewing the opening the .ipnb file directly in github.\
+Therefore I added the Watson Studio link as well.\
+
+Github
+https://github.com/sebastiaanvrij/the-Battle-of-Neigborhoods/blob/a9d6928df61a50d837f7586f989cdbc938b6558c/The%20Battle%20of%20Neigborhoods.ipynb
+
+
+Watson Studio
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/c08cb284-a216-49a7-91f1-62c08090f9ab/view?access_token=9028e7b3f147bb0cf4b43b1f191aa1e090f26c4c48d919eca02703c70ef60608
