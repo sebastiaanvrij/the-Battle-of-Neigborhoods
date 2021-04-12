@@ -1,0 +1,10 @@
+Sometimes there seems to be an issue with viewing the opening the .ipnb file directly in github.
+Therefore I created a pfd just in case.
+
+Github
+https://github.com/sebastiaanvrij/the-Battle-of-Neigborhoods/blob/9ce5c7474b7128e484a3a9546ab849156b4b2d9a/The%20Battle%20of%20Neigborhoods.ipynb
+
+
+PDF Notebook
+https://github.com/sebastiaanvrij/the-Battle-of-Neigborhoods/blob/cffc24d76a76989734b311dedc8487572d8b636b/The%20Battle%20of%20Neigborhoods%20notebook.pdf
+
